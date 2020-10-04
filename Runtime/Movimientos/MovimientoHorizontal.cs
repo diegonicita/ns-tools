@@ -4,7 +4,7 @@ namespace NicitaSoftware.Tools
 {
     public class MovimientoHorizontal : MonoBehaviour
     {
-        public float velocidadX = 1;
+        public float velocidadX = 5;
         public float timer = 1;
         private int direccion = 1;
         private float tiempoTranscurrido;
