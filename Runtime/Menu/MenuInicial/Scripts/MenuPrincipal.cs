@@ -8,12 +8,19 @@ using UnityEngine.UI;
 public class MenuPrincipal : MonoBehaviour
 {   
     public string proximoNivelString;
-    public GameObject tutorial;
-    public GameObject levelUp;
-    public GameObject quitGameWin;
+    private GameObject tutorial;
+    private GameObject levelUp;
+    private GameObject quitGameWin;
     public AudioSource playSound;
     public AudioSource clickSound;
     bool startPressed = false;
+
+    void OnAwake()
+    {
+        tutorial = GameObject.Find("Tutorial");
+        levelUp = GameObject.Find("LevelUp");
+        quitGameWin = GameObject.Find("Win");
+    }
    
     public void LoadNextLevel()
     {
