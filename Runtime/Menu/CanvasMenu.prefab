@@ -618,31 +618,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 612639018069835036}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, Assembly-CSharp
-        m_MethodName: Play
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: ClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &612639018149475161
 GameObject:
   m_ObjectHideFlags: 0
@@ -841,31 +817,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 5878418158401605464}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: QuitGameWindows
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: ClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &2040716361766573268
 GameObject:
   m_ObjectHideFlags: 0
@@ -985,31 +937,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3780260084898629026}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: QuitGameWindows
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: ClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &2190508304189979721
 GameObject:
   m_ObjectHideFlags: 0
@@ -1287,31 +1215,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 4800714965895066225}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: TutorialWindows
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: ClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &3344533603208188970
 GameObject:
   m_ObjectHideFlags: 0
@@ -1510,31 +1414,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7075229615815698493}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: LevelUpWindows
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: ClickSound
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &6018560134705888188
 GameObject:
   m_ObjectHideFlags: 0
@@ -1654,19 +1534,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 867244380756903124}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: QuitGame
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &6928497741516893829
 GameObject:
   m_ObjectHideFlags: 0
@@ -1944,19 +1812,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 7757550635607970387}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 325381974}
-        m_TargetAssemblyTypeName: MenuPrincipal, com.nicita.tools
-        m_MethodName: QuitGame
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &9158795049105172026
 GameObject:
   m_ObjectHideFlags: 0
