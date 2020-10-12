@@ -12,7 +12,7 @@ namespace NicitaSoftware.Tools
         [SerializeField]
         public GameObject prefabWindow;
         [SerializeField]
-        public AudioSource prefabClickSound;
+        public AudioClip audioClip;
 
     }
 }
