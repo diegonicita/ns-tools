@@ -845,6 +845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9187e88285ef70043a6bdfd9b30fafad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  waitTime: 0
   lerpCurve:
     serializedVersion: 2
     m_Curve:
