@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0b7906c2f653cf247a1aa745864b5c43, type: 3}
-  m_Name: Tutorial
+  m_Name: Tutorial Variant
   m_EditorClassIdentifier: 
-  enlaceName: Enlace Tutorial
-  prefabWindow: {fileID: 8558841967479060571, guid: f35d3aa2208113b458da4444440316e9,
+  enlaceName: Boton Tutorial
+  prefabWindow: {fileID: 7683002005579015001, guid: bdebf18d2577e3d4cae0833d2d143ad3,
     type: 3}
   audioClip: {fileID: 8300000, guid: ea4cca42e0330844f994a4376ad916c3, type: 3}
